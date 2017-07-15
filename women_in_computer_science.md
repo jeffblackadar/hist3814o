@@ -1,4 +1,4 @@
-﻿# Diversity in DH and the lack of Women In Computer Science.
+# Diversity in DH and the lack of Women In Computer Science.
 
 HIST3814o Module 1, Exercise 1.
 
