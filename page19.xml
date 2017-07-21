@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>19</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>32</p>
+<p>United States as a scene of profitable enterprise, but
+of the general character and manners of its inhabitants.
+But what is his representation of the nature of slavery, 
+and its effects on the more and intellectual qualities
+of the American population ?  Let the friends and 
+advocates of our slave-system, and, above all, let our
+members of Parliament, who may be called to revise 
+that system, weight it well.  It is replete with consider-
+ations of momentous import.  The passage will be found 
+in Birbeck's "Notes," p. 20.</p>
+<p>" May 10. I saw two female slaves and their 
+children sold by auction in the street; an incident of 
+common occurence here, though horrifying to myself
+and many other strangers.  I could hardly bear to see
+them handled and examined like cattle; and when I
+heard their sobs, and saw the big tears roll down their
+cheeks at the thoughs of being separated, I could not 
+refrain from weeping with them.  In selling these un-
+happy beings, little regards is had to the parting of the
+nearest relations. <placeName key="Virginia, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Virginia&amp;params=37.5_N_79_W_region:US-VA_type:adm1st_scale:3000000">Virginia</placeName> prides itself on the com-
+parative mildness of its treatment of the slaves; and, in
+fact, they increase in numbers, many being annually
+supplies from this state to those further south, where
+the treatment is said to be much more severe. There
+are regular dealers who buy them up, and drive them
+in gangs, chained together, to a southern  market. I
+am informed, that a few weeks pass without some of them Hw ' ~
+being marched through this place. A traveller told me,
+that he saw, two weeks ago, one hdndred and twenty
+sold by auction in the streets of <placeName key="Richmond, Virginia, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Richmond%2C_Virginia&amp;params=37_32_N_77_28_W_region:US-VA_type:city">Richmond</placeName>; and that
+they filled the air with their lamentiations.
+ </p>
+<p>
+    "It has also been conﬁdently alleged, that the con-
+dition of slaves in <placeName key="Virginia, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Virginia&amp;params=37.5_N_79_W_region:US-VA_type:adm1st_scale:3000000">Virginia</placeName>, under the mild treatment 
+    they are siad to experience, is preferrable to that of our
+    English labourers. I know and lament the degrading 
+    state of dependent poverty to which the latter have
+  
+ been gradually reduced by the operation of laws origin-
+ally designed for their comfort and protection. I know
+also that many slaves pass their lives in comparutive
+ease, and seem to be unconcious of their bonds, and   
+    that the <i>most wretched</i> of our paupers might envy the 
+allotment of the <i>happy</i> Negro. This is not, however, 
+institutind a fair comparison, to bring the opposite ex-
+tremes of the two classes into competition. Let us take
+a view of some particulars which operate generally.
+</p>
+<p>
+“ In <placeName key="England" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=England&amp;params=51_30_N_0_7_W_type:city">England</placeName>, exertion is not the result of personal
+fear in <placeName key="Virginia, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Virginia&amp;params=37.5_N_79_W_region:US-VA_type:adm1st_scale:3000000">Virginia</placeName>, it is the prevailing stimulus.
+</p>
+<p>
+“ The slave is punished for mere <i>indolence</i>, at the
+discretion of an <i>overseer</i>: the peasant is only punished
+by the law, when guilty of a crime.
+</p>
+<p>
+“ In <placeName key="England" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=England&amp;params=51_30_N_0_7_W_type:city">England</placeName>, the labourer and his employer ere
+equal in the eye of the law : here the law affords the
+slave no protection, unless a White man gives testimony
+in his favour.
+</p>
+<p>
+"Here, any White man may insult a Black with im-
+punity; whilst the English peasant, should he receive a
+blow from his employer, might and would return it with
+interest and afterwards have his remedy at law for the
+aggression.
+</p>
+<p>
+“ The testimony of a peasant weighs as much as that
+of a lord in a court of justice; but the testimony of a
+slave is never admitted at all, in a case where a White
+man is opposed to him. 
+</p>
+<p>
+“ A few weeks ago, in the streets of <placeName key="Richmond, Virginia, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Richmond%2C_Virginia&amp;params=37_32_N_77_28_W_region:US-VA_type:city">Richmond</placeName>, a
+friend of mine saw a White boy wontonly throw quick-
+lime in the face of a Negro-man.  The man shook the
+lime from his jacket, and some of it accidentally reached 
+the eyes of the young brute.  This casual retaliation
+excited the resentment of the brother of the boy, who
+   complained to the slave's owner, and actually had him
+    punished with thirty lashes.  This would not have hap-
+    pended to an English peasant.
+ </p>
+<p>D</p>
+
+
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
